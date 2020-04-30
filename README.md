@@ -3,7 +3,7 @@
 
 It's a music app that plays Xylophone sounds.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+<img src="XylophoneScreenshot.png" width="240" height="500">
 
 ## Things have been done
 
